@@ -7,7 +7,7 @@ public class Main {
         // num = 100 + i, pin = 10 + i
         Atm atm = new Atm(new RussianLanguage(), Currency.RUB);
         atm.start();
-
+         System.out.println("hi");
 
     }
 }
